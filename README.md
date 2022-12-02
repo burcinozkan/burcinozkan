@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀 and Writer ✍!Cancel changes
+## I'm a Student 👨‍🎓, Full Stack Developer 🚀
 - 🔭 I’m currently working on deep learning.
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other java and python developer 👩‍💻 
